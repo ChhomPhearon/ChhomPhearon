@@ -2,19 +2,12 @@
 
 # Hey, I'm Chhom Phearon 👋
 
-**Full Stack Developer** · Building modern web experiences with JavaScript & TypeScript
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](#)
-
-</div>
 
 ---
 
 ## About Me
 
-I'm a Full Stack Developer based in Phnom Penh, Cambodia 🇰🇭, passionate about building fast, accessible, and well-crafted web applications — from pixel-perfect UIs to scalable backend systems.
+I'm a Software based in Phnom Penh, Cambodia 🇰🇭, passionate about building fast, accessible, and well-crafted web applications — from pixel-perfect UIs to scalable backend systems.
 
 - 🔭 Currently working on full-stack projects with **Next.js** and **Node.js**
 - 🌱 Exploring **edge computing**, **tRPC**, and **AI-powered tooling**
@@ -40,12 +33,8 @@ I'm a Full Stack Developer based in Phnom Penh, Cambodia 🇰🇭, passionate ab
 
 ### Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -76,35 +65,3 @@ I'm a Full Stack Developer based in Phnom Penh, Cambodia 🇰🇭, passionate ab
 
 **Stack:** Next.js · TypeScript · PostgreSQL · Tailwind CSS  
 **Highlights:** Server-side rendering, auth with JWT, REST API, responsive design
-
----
-
-### 🔗 [Project Name](https://github.com/ChhomPhearon)
-> A brief description of what this project does and the problem it solves.
-
-**Stack:** React · Node.js · GraphQL · MongoDB  
-**Highlights:** Real-time updates, role-based access control, optimistic UI
-
----
-
-### 🔗 [Project Name](https://github.com/ChhomPhearon)
-> A brief description of what this project does and the problem it solves.
-
-**Stack:** TypeScript · Express · Prisma · Redis  
-**Highlights:** REST API, caching layer, rate limiting, OpenAPI docs
-
----
-
-## 📫 Let's Connect
-
-I'm always open to collaborating on interesting projects or just having a good conversation about tech.
-
-- 💼 [LinkedIn](#)
-- 🌐 [Portfolio](#)
-- 📧 [Email](#)
-
----
-
-<div align="center">
-  <sub>Built with ❤️ in Phnom Penh 🇰🇭</sub>
-</div>
