@@ -9,12 +9,6 @@
 
 I'm a Software based in Phnom Penh, Cambodia 🇰🇭, passionate about building fast, accessible, and well-crafted web applications — from pixel-perfect UIs to scalable backend systems.
 
-- 🔭 Currently working on full-stack projects with **Next.js** and **Node.js**
-- 🌱 Exploring **edge computing**, **tRPC**, and **AI-powered tooling**
-- 💬 Ask me about **React**, **TypeScript**, **REST APIs**, or **database design**
-- ⚡ Fun fact: I think about component architecture even when I'm not coding
-
----
 
 ## 🛠 Tech Stack
 
