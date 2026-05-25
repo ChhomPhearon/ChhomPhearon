@@ -41,27 +41,4 @@ I'm a Software based in Phnom Penh, Cambodia 🇰🇭, passionate about building
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ChhomPhearon&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChhomPhearon&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ChhomPhearon&theme=default&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🔗 [Project Name](https://github.com/ChhomPhearon)
-> A brief description of what this project does and the problem it solves.
-
-**Stack:** Next.js · TypeScript · PostgreSQL · Tailwind CSS  
-**Highlights:** Server-side rendering, auth with JWT, REST API, responsive design
